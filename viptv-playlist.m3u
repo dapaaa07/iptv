@@ -1021,6 +1021,76 @@ https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 <============================ Sports ========================>
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="ON EVENT",BRI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+https://hqth.me/BriEventtttt1_ts|Referer=https://www.vidio.com/
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="ON EVENT",BRI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+https://hqth.me/BriEventtttt2_ts|Referer=https://idn87.tigoals60.com/
+
+#EXTINF:0 group-title="ON EVENT" tvg-logo="https://i.imgur.com/7RGCLBE.jpg", MotoGp 
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SsMotogp1_ts|Referer=https://librarywhispering.com/
+
+#EXTINF:0 group-title="ON EVENT" tvg-logo="https://i.imgur.com/7RGCLBE.jpg", MotoGp b 
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SsMotogp2_ts|Referer=https://choosingnothing.com/
+
+#EXTINF:0 group-title="ON EVENT" tvg-logo="https://i.imgur.com/nzY5QU4.png", UFC EVENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SsUfc1_ts|Referer=https://librarywhispering.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/nzY5QU4.png", UFC 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+https://hqth.me/SsUfc2_ts|Referer=https://choosingnothing.com/
+
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/MySfR6u.jpg", F1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SsF1_1|Referer=https://librarywhispering.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/MySfR6u.jpg", F1 b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+https://hqth.me/SsF1_2|Referer=https://choosingnothing.com/
+
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/piSoTjd.png?2", NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hqth.me/SsNba_ts|Referer=https://stylisheleg4nt.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/piSoTjd.png?2", NBA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+https://hqth.me/SsNba2_ts|Referer=https://choosingnothing.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/4amXgna.png", MLS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hqth.me/SsMls_ts|Referer=https://stylisheleg4nt.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/4amXgna.png", MLS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+https://hqth.me/SsMls2_ts|Referer=https://choosingnothing.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/1bkILed.jpg", BOX/UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hqth.me/SsBox_ts|Referer=https://stylisheleg4nt.com/
+
+#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.imgur.com/1bkILed.jpg", BOX/UFC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://librarywhispering.com/
+https://hqth.me/SsBox2_ts|Referer=https://choosingnothing.com/
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="Sports", BEIN MY 1 mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
